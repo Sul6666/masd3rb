@@ -6,7 +6,7 @@
 
 - 
 
-تحديثstrong-
+تحديث strong-
 
  Root channel 
 
