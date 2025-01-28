@@ -1,8 +1,8 @@
 
 
-# v18.3
+# v18.5
 
-- Update fingerprint
+- Update strong
 
 - 
 
